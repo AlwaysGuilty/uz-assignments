@@ -1,0 +1,11 @@
+najprej praša kire extra naloge si nardil. js sem sam eno (3.c) so mi je rekel da pokažem. Pol me je prašal o morphology pac erozija pa dialation in structuring element, pa prašal ce mam masko s šumom belih pik 10x10 pol koliko more bit velik ta element in z cim naj resim (erozijo). na koncu seprašal za 1 nalogo kako sem negativ naredil in zakaj.
+
+mene je prašu kku dobiš inverz slike in zakaj lih vrednost 255 in kulk bi bla vrednost če bi meli 16 bitno sliko. pol razlago Otsuja in pol še pr tretji kdaj vemo da mormo uzet inverzno masko
+
+Mene je vprašov opening pa closing pa prednosti vsacga. Pa zakaj je pr histogramih uporabno met mnj binov
+
+vprašanja:
+ - 2.d) histogrami da mu pokažem mal kodo oz end result
+ - otsu kako deluje 
+ - kako bi pr orlu vedu kdaj je treba invertat ozadje
+ 
